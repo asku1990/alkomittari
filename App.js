@@ -63,6 +63,7 @@ export default function App() {
       } else{
         setBloodLevel(0)
       }      
+      //testitesti
   }
 
   return (
